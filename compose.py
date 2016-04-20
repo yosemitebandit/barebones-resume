@@ -1,10 +1,12 @@
 """Injects markdown into a small template.
 """
 
+import sys
+
 import markdown
 
 
-input_filepath = 'resume.md'
+input_filepath = sys.argv[1]
 template_filepath = 'template.html'
 
 # Parse the markdown.

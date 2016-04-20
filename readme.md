@@ -1,9 +1,10 @@
 
-trying out markdown for a simple resume
+resumes in markdown
 
 
-#### pipeline
-* write yourself up in `resume.md`
-* run `compose.py` to inject the html contents into a basic template with some css
-* view that page with `python -m SimpleHTTPServer`
-and maybe export it as a pdf via your browser
+#### usage
+* write your resume in a markdown file, see `resume.md` for an example
+* run `compose.py resume.md > index.html` to send your html-ified resume into a basic template
+* adjust `styles.css` to your liking
+* view the output page with `python -m SimpleHTTPServer`
+and maybe export it as a pdf via your browser -- see `resume.pdf` for an example
