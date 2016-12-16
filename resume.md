@@ -1,13 +1,19 @@
 #### Matt Ball
-* oakmachine.com
-* matt.ball.2@gmail.com
+
+* [oakmachine.com](https://oakmachine.com)
 
 
 #### Work Experience
+
+Culture Robotics, CTO -- Jun 2016 to present
+
+* creating the hardware and software for automated fermentation systems.
+
 Endaga, Member of Technical Staff -- Feb 2015 to Oct 2015
 
 * wrote software for the user interface, cell phone towers and backend servers
 * built software to connect to an open source telephony backend
+* acquired by Facebook
 
 Google[x], Software and Hardware Engineer -- Apr 2013 to Feb 2015
 
@@ -26,20 +32,13 @@ Redwood Systems, Applications Engineer -- Oct 2010 to Nov 2011
 * built a web-based system for displaying sensor information
 * created a statistical analysis library for analyzing energy efficiency data
 * developed a mobile phone application for controlling lights
-
-Duke University, Teaching Assistant -- Aug 2009 to May 2010
-
-* worked for the Devices for People with Disabilities senior capstone course
+* acquired by CommScope
 
 
-#### Volunteering
-Laurel Walking Tour -- Feb 2013
+#### Projects
 
-* worked with a local high schooler to create an audio walking tour
-
-CollegeTrack SF -- Sept 2012 to Feb 2013
-
-* assisted high schoolers in their science, math, english and history homework
+* Neural Carputer -- autonomous, neural network-based 1:10 scale car built for the Sparkfun autonomous vehicle competition
+* Setbot -- computer vision and neural networks for playing the card game Set at a level on par with a skilled human player
 
 
 #### Education
