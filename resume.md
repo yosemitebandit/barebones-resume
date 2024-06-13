@@ -1,13 +1,16 @@
 #### Matt Ball
 
 * [oakmachine.com](https://oakmachine.com)
+* Redwood City, CA
 
 
 #### Work Experience
 
-Culture Robotics, CTO -- Jun 2016 to present
+Culture Biosciences, Cofounder and CTO -- Jun 2016 to Apr 2024
 
-* creating the hardware and software for automated fermentation systems.
+* custom hardware and software for automated fermentation systems.
+* building and leading R&D teams
+* strategy, fundraising
 
 Endaga, Member of Technical Staff -- Feb 2015 to Oct 2015
 
