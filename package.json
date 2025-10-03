@@ -1,0 +1,23 @@
+{
+  "name": "barebones-resume",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "pdf resumes from markdown",
+  "scripts": {
+    "build": "tsx generate.ts",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
+    "eslint": "^9.0.0",
+    "prettier": "^3.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
